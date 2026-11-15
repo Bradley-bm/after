@@ -1,4 +1,4 @@
-num = int(input("Enter a decimal number: "))
+num = int(input("Enter a whole number (base 10): "))
 temp = num
 binary = ""
 if temp == 0:
